@@ -1,1 +1,2 @@
 # Multi-word-guessing-game
+This multi-word guessing game is similar to Hangman, in which the player tries to guess a word, one letter at a time. In this game, when the player guesses correctly it is shown, but each time the player guesses wrong, another word is added. To win the game, the player must find all the letters in all the words shown. The player’s score is the number of words shown (the fewer the better) You should allow them to get to at least 8 words before losing.
